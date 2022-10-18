@@ -5,7 +5,7 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/adleronn)
 
 ![Julio GitHub stats](https://github-readme-stats.vercel.app/api?username=julioa-adl&show_icons=true&theme=radical)
-<img alt="julio-Js" width="300" src="https://thumbs.gfycat.com/AngelicRelievedBronco-size_restricted.gif">
+<img alt="julio-Js" width="200" src="https://thumbs.gfycat.com/AngelicRelievedBronco-size_restricted.gif">
 <!-- <img alt="julio-Js" width="400" src="https://i.pinimg.com/originals/61/8c/c9/618cc9674dc60b1e2b3f66187edfaf6f.gif"> -->
 
 
