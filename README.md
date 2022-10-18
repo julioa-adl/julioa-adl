@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/julioadl/)
 
 ![Julio GitHub stats](https://github-readme-stats.vercel.app/api?username=julioa-adl&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julioa-adl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" alt="Rafa-Js" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg](https://i.pinimg.com/originals/61/8c/c9/618cc9674dc60b1e2b3f66187edfaf6f.gif)">
 
 ## Tecnologias que eu utilizo no meu dia-a-da
 
