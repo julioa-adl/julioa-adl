@@ -2,7 +2,7 @@
 
 [![Linkedn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%BAlio-adler-550811107/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/julioadl/)
-[![Twitch]([https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white))]([https://www.instagram.com/julioadl/](https://www.twitch.tv/adleronn))
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/adleronn)
 
 ![Julio GitHub stats](https://github-readme-stats.vercel.app/api?username=julioa-adl&show_icons=true&theme=radical)
 <img alt="julio-Js" width="300" src="https://thumbs.gfycat.com/AngelicRelievedBronco-size_restricted.gif">
