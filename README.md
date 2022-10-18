@@ -17,4 +17,5 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-Gosto de desafios e de procurar soluções criativas para eles, buscando de forma prática automatizar e melhorar o dia-a-dia das pessoas.
+Como me apaixonei por programação? sou preguiçoso ... mas não um preguiçoso qualquer. Odeio tarefas repetitivas, acredito num mundo onde as pessoas serão livres para criar ao invés de escravas de tarefas que podem ser simplesmente automatizadas, e é graças a isso que quero dedicar minha vida e evoluir meu (ainda singelo e talvez sempre singelo) conhecimento, curiosidade e criatividade.
+## Este é o futuro que acredito!
