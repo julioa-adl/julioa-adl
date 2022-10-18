@@ -5,8 +5,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/julioadl/)
 
 ![Julio GitHub stats](https://github-readme-stats.vercel.app/api?username=julioa-adl&show_icons=true&theme=radical)
-<!-- <img alt="julio-Js" width="400" src="https://i.pinimg.com/originals/61/8c/c9/618cc9674dc60b1e2b3f66187edfaf6f.gif"> -->
 <img alt="julio-Js" width="300" src="https://thumbs.gfycat.com/AngelicRelievedBronco-size_restricted.gif">
+<!-- <img alt="julio-Js" width="400" src="https://i.pinimg.com/originals/61/8c/c9/618cc9674dc60b1e2b3f66187edfaf6f.gif"> -->
 
 
 ## Tecnologias que eu utilizo no meu dia-a-da
