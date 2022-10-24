@@ -23,4 +23,4 @@
 Como me apaixonei por programação? sou preguiçoso ... mas não um preguiçoso qualquer. Odeio tarefas repetitivas, acredito num mundo onde as pessoas serão livres para criar ao invés de escravas de tarefas que podem ser simplesmente automatizadas, e é graças a isso que quero dedicar minha vida e evoluir meu (ainda singelo e talvez sempre singelo) conhecimento, curiosidade e criatividade.
 ## Este é o futuro que acredito!
 
-Meu Email: julioafmesquita@gmail.com
+<!-- Meu Email: julioafmesquita@gmail.com -->
