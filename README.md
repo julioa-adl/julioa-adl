@@ -1,6 +1,6 @@
 ### Olá eu sou o Júlio Adler 👋
 Natural de Recife/PE, sou desenvolvedor junior fullstack, com maior proficiência em <strong>FrontEnd</strong>, atualmente concluindo meus estudos em backend e me aprimorando na área. Em relação à minha experiência, tenho trabalhado em projetos freelances como sites para clientes:
-(uma empresa de Manutenção em Lisboa/Portugal: jonathanmanutencao.pt e uma empresa de Segurança do trabalho em Recife/PE worksafebrasil.com.br),
+(uma empresa de Manutenção em Lisboa/Portugal: <a href="www.jonathanmanutencao.pt">jonathanmanutencao.pt</a> e uma empresa de Segurança do trabalho em Recife/PE worksafebrasil.com.br),
 e em projetos pessoais para estudos afim de aprimorar minhas habilidades em react e suas tecnologias correlatas. Estou à procura de meu primeiro Sim <3.
 
 [![Linkedn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%BAlio-adler-550811107/)
