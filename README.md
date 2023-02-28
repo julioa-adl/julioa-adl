@@ -1,5 +1,5 @@
 ### Olá eu sou o Júlio Adler 👋
-Natural de Recife/PE, sou desenvolvedor junior fullstack, com maior proficiência em <strong>frontend</strong>, atualmente concluindo meus estudos em backend e me aprimorando na área. Em relação à minha experiência, tenho trabalhado em projetos pessoais para estudar e aprimorar minhas habilidades em react e suas tecnologias correlatas. Estou à procura de meu primeiro emprego e estou ansioso para aprender e me desenvolver ainda mais.
+Natural de Recife/PE, sou desenvolvedor junior fullstack, com maior proficiência em <strong>FrontEnd</strong>, atualmente concluindo meus estudos em backend e me aprimorando na área. Em relação à minha experiência, tenho trabalhado em projetos pessoais para estudar e aprimorar minhas habilidades em react e suas tecnologias correlatas. Estou à procura de meu primeiro emprego e estou ansioso para aprender e me desenvolver ainda mais.
 
 [![Linkedn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%BAlio-adler-550811107/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/julioadl/)
