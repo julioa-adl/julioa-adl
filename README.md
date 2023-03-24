@@ -3,6 +3,8 @@ Natural de Recife/PE, sou desenvolvedor junior fullstack, com maior proficiênci
 (uma empresa de Manutenção em Lisboa/Portugal: www.jonathanmanutencao.pt e uma empresa de Segurança do trabalho em Recife/PE www.worksafebrasil.com.br),
 e em projetos pessoais para estudos afim de aprimorar minhas habilidades em react e suas tecnologias correlatas. Estou à procura de meu primeiro Sim <3.
 
+Meu Email: julioafmesquita@gmail.com
+
 [![Linkedn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%BAlio-adler-550811107/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/julioadl/)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/adleronn)
@@ -26,6 +28,3 @@ e em projetos pessoais para estudos afim de aprimorar minhas habilidades em reac
 
 <!-- Como me apaixonei por programação? sou preguiçoso ... mas não um preguiçoso qualquer. Odeio tarefas repetitivas, acredito num mundo onde as pessoas serão livres para criar ao invés de escravas de tarefas que podem ser simplesmente automatizadas, e é graças a isso que quero dedicar minha vida e evoluir meu (ainda singelo e talvez sempre singelo) conhecimento, curiosidade e criatividade.
 ## Este é o futuro que acredito! -->
-
-
-<!-- Meu Email: julioafmesquita@gmail.com -->
