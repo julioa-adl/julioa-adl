@@ -25,7 +25,7 @@ Meu Email: julioafmesquita@gmail.com
   <img align="center" alt="express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </div><br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julioa-adl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julioa-adl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Julio GitHub stats](https://github-readme-stats.vercel.app/api?username=julioa-adl&show_icons=true&theme=radical)
 <!-- <img alt="julio-Js" width="200" src="https://thumbs.gfycat.com/AngelicRelievedBronco-size_restricted.gif"> -->
