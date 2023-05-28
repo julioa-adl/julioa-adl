@@ -13,7 +13,6 @@ Meu Email: julioafmesquita@gmail.com
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/adleronn)
 
 ## Tecnologias que eu utilizo no meu dia-a-da
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julioa-adl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -26,6 +25,7 @@ Meu Email: julioafmesquita@gmail.com
   <img align="center" alt="express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </div><br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julioa-adl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Julio GitHub stats](https://github-readme-stats.vercel.app/api?username=julioa-adl&show_icons=true&theme=radical)
 <!-- <img alt="julio-Js" width="200" src="https://thumbs.gfycat.com/AngelicRelievedBronco-size_restricted.gif"> -->
