@@ -9,7 +9,6 @@ Em tecnologia tenho trabalhado em projetos para estudos e alguns freelances de s
 - uma empresa de Manutenção em Lisboa/Portugal: www.jonathanmanutencao.pt,
 - e uma empresa de Segurança do trabalho em Recife/PE www.worksafebrasil.com.br.
 </br>
-</br>
 Meu maior objetivo hoje é ganhar experiência profissional em aplicações reais que farão a diferença na vida de alguém <3 .
 </br>
 </br>
