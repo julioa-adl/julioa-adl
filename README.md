@@ -1,11 +1,18 @@
 ### Olá eu sou o Júlio Adler 👋
-Natural de Recife/PE, sou desenvolvedor junior fullstack, com maior proficiência em <strong>FrontEnd</strong>, atualmente concluindo meus estudos em backend e me aprimorando na área.
+Natural de Recife/PE, sou desenvolvedor junior FullStack, com maior proficiência em <strong>FrontEnd</strong>. Sempre fui atraído pelo virtual, uma paixão que certamente começou com jogos on-line na infância, mas que se desenvolveu mais com a evolução e praticidade da área Web.
 </br>
 </br>
-Sobre minha experiência, tenho trabalhado em projetos freelances de sites corporativos como:
-(uma empresa de Manutenção em Lisboa/Portugal: www.jonathanmanutencao.pt e uma empresa de Segurança do trabalho em Recife/PE www.worksafebrasil.com.br),
-e em projetos pessoais para estudos afim de aprimorar minhas habilidades em react e suas tecnologias correlatas. Estou à procura de meu primeiro Sim <3.
-
+Possuo experiência profissional em gestão e administração de empresas, que foi meu foco inicial de carreira, mas sempre estudando programação como hobbie e utilizando em algumas soluções nas empresas por onde passei.
+</br>
+</br>
+Em tecnologia tenho trabalhado em projetos para estudos e alguns freelances de sites corporativos como:
+- uma empresa de Manutenção em Lisboa/Portugal: www.jonathanmanutencao.pt,
+- e uma empresa de Segurança do trabalho em Recife/PE www.worksafebrasil.com.br.
+</br>
+</br>
+Meu maior objetivo hoje é ganhar experiência profissional em aplicações reais que farão a diferença na vida de alguém <3 .
+</br>
+</br>
 Meu Email: julioafmesquita@gmail.com
 
 [![Linkedn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%BAlio-adler-550811107/)
