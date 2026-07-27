@@ -1,20 +1,22 @@
 # 👋 Olá, eu sou o Júlio Adler  
 
-🔹 Desenvolvedor **FullStack JavaScript** com proficiência em **FrontEnd (React & Vue)** e experiência sólida em **BackEnd (Node.js, Express, Prisma, Sequelize, PostgreSQL/MySQL)**.  
+🔹 Desenvolvedor **FullStack JavaScript** com proficiência em **FrontEnd (React & Vue)** e experiência sólida em **BackEnd (.Net, C#, Node.js, Express, Prisma, Sequelize, PostgreSQL/MySQL)**.  
 
 🔹 Natural de **Recife/PE**, comecei minha paixão por tecnologia ainda no setor administrativo, sempre pesquisando e criando **automatizações que facilitassem o dia a dia das empresas** por onde passei.  
-Com o tempo, fui explorando automações mais avançadas, como uso de **VBA no Excel** e até mesmo **Python**, o que naturalmente me levou ao **JavaScript** e despertou cada vez mais minha curiosidade pelo desenvolvimento de aplicações completas.  
+Com o tempo, fui explorando automações mais avançadas, como uso de **VBA no Excel** e até mesmo **AppScripts do Google**, o que naturalmente me levou ao **JavaScript** e despertou cada vez mais minha curiosidade pelo desenvolvimento de aplicações mais complexas e que resolvem problemas reais.  
 
-🔹 Além da tecnologia, tenho experiência prévia em **gestão e administração de empresas**, o que me deu uma visão estratégica sobre negócios, ajudando a alinhar soluções técnicas com objetivos reais das organizações.  
+🔹 Além da tecnologia, tenho experiência prévia em **gestão e administração de empresas**, o que me deu uma visão estratégica sobre Negócio e Produto, ajudando a alinhar soluções técnicas com objetivos reais nas organizações.  
 
 ---
 
 ## 🚀 O que eu faço
-Atualmente desenvolvo projetos que vão desde **sites corporativos** até **aplicações web completas**, sempre prezando por boas práticas de código, arquitetura limpa e foco em resultado.  
+Atualmente desenvolvo projetos que vão desde **sites corporativos** até **sistemas web completos**, sempre prezando por boas práticas de código, arquitetura limpa e foco em resultados.  
 
 Alguns trabalhos já entregues:  
 - 🔧 [Jonathan Manutenção (Lisboa/Portugal)](https://www.jonathanmanutencao.pt)  
-- 🦺 [WorkSafe Brasil (Recife/PE)](https://www.worksafebrasil.com.br)  
+- 🦺 [WorkSafe Brasil (Recife/PE)](https://www.worksafebrasil.com.br)
+- 🚙 [Vizigo (Brasil)](https://www.vizigo.com.br)
+- 🖥️ [Boon ERP (Belo Horizonte/MG)](https://www.boon.clubecerto.com.br)
 
 ---
 
